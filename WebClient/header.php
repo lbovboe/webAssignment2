@@ -16,13 +16,19 @@ session_start();
 <body>
     <!-- Top Nav Bar -->
     <div class="top-nav-bar">
-        <div class="search-box">
+        <form class="search-box" action="search.php" method="post">
+
             <span>
                 <a class="logo" href="index.php">TECH@CS</a>
             </span>
+
             <input type="text" class="searchinput" />
-            <span class="searchicon"><i class="fas fa-search"></i></span>
-        </div>
+
+            <button class="searchicon" type="submit" name="submit-search">search</button>
+
+
+
+        </form>
         <div class="login-bar">
             <?php
             if (isset($_SESSION['idnum'])) {
