@@ -23,7 +23,7 @@ session_start();
                 <a class="logo" href="index.php">TECH@CS</a>
             </span>
 
-            <input type="text" class="searchinput" name="searchinput" />
+            <input type="text" class="searchinput" name="searchinput" placeholder="Search...." />
 
             <button class="searchicon" type="submit" name="submit-search">search</button>
 
