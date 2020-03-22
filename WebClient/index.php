@@ -170,6 +170,49 @@ require "header.php";
     </div>
 </div>
 <!-- end of horizontal slider -->
+
+<!-- Display Session -->
+<h2 class="displaytitle">Display Session</h2>
+<section class="display-container">
+    <div><img src="../images/Product/clothes/adidas1.jpg"></img></div>
+    <div><img src="../images/Product/clothes/adidas.jpg"></div>
+    <div><img src="../images/Product/clothes/adidas2.jpg"></div>
+    <div><img src="../images/Product/clothes/adidas3.jpg"></div>
+    <div><img src="../images/Product/clothes/weiyi2.jpg"></div>
+    <div><img src="../images/Product/clothes/weiyi3.jpg"></div>
+    <div><img src="../images/Product/clothes/weiyi4.jpg"></div>
+    <div><img src="../images/Product/glasses/glasses.jpg"></div>
+    <div><img src="../images/Product/glasses/glasses1.jpg"></div>
+    <div><img src="../images/Product/glasses/glasses2.jpg"></div>
+    <div><img src="../images/Product/glasses/glasses3.jpg"></div>
+    <div><img src="../images/Product/glasses/glasses4.jpg"></div>
+    <div><img src="../images/Product/glasses/glasses5.jpg"></div>
+    <div><img src="../images/Product/perfurm/perfurm.jpg"></div>
+    <div><img src="../images/Product/perfurm/perfurm1.jpg"></div>
+    <div><img src="../images/Product/perfurm/perfurm2.jpg"></div>
+    <div><img src="../images/Product/perfurm/perfurm3.jpg"></div>
+    <div><img src="../images/Product/perfurm/perfurm4.jpg"></div>
+    <div><img src="../images/Product/perfurm/perfurm5.jpg"></div>
+    <div><img src="../images/Product/sports/adidas.jpg"></div>
+    <div><img src="../images/Product/sports/bag.jpg"></div>
+    <div><img src="../images/Product/sports/bag1.jpg"></div>
+    <div><img src="../images/Product/sports/bag2.jpg"></div>
+    <div><img src="../images/Product/sports/nike.jpg"></div>
+    <div><img src="../images/Product/sports/nike1.jpg"></div>
+    <div><img src="../images/Product/suitcase/suitcase.jpg"></div>
+    <div><img src="../images/Product/suitcase/suitcase1.jpg"></div>
+    <div><img src="../images/Product/suitcase/suitcase2.jpg"></div>
+    <div><img src="../images/Product/suitcase/suitcase3.jpg"></div>
+    <div><img src="../images/Product/suitcase/suitcase4.jpg"></div>
+    <div><img src="../images/Product/suitcase/suitcase5.jpg"></div>
+    <div><img src="../images/Product/wash/shampoo.jpg"></div>
+    <div><img src="../images/Product/wash/shampoo1.jpg"></div>
+    <div><img src="../images/Product/wash/showergel.jpg"></div>
+    <div><img src="../images/Product/wash/showergel1.jpg"></div>
+    <div><img src="../images/Product/wash/toothbrush.jpg"></div>
+    <div><img src="../images/Product/wash/toothpaste.jpg"></div>
+</section>
+<!-- End of display session -->
 <?php
 require "footer.php";
 ?>
