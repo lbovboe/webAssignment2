@@ -1,0 +1,12 @@
+.product-container {
+  width: 70%;
+  margin: auto;
+  background-color: aqua;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.product-box {
+  padding-bottom: 30px;
+  width: 100%;
+}

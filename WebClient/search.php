@@ -3,7 +3,7 @@ include "header.php";
 require "../Server/dbh.php";
 ?>
 
-<h1>Search Page</h1>
+
 
 <div class="product-container">
     <?php
