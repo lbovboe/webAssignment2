@@ -1,7 +1,7 @@
 <?php
 require "header.php";
 ?>
-<main>
+<!-- <main>
 
     <div class="wrapper-main">
         <section class="section-default">
@@ -15,7 +15,7 @@ require "header.php";
 
         </section>
     </div>
-</main>
+</main> -->
 
 <?php
 require "footer.php";
