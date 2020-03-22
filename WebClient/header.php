@@ -22,7 +22,7 @@ session_start();
                 <a class="logo" href="index.php">TECH@CS</a>
             </span>
 
-            <input type="text" class="searchinput" />
+            <input type="text" class="searchinput" name="searchinput" />
 
             <button class="searchicon" type="submit" name="submit-search">search</button>
 
