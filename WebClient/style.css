@@ -132,9 +132,23 @@ footer {
   background-color: #333;
   color: #fff;
   padding: 20px;
-
+  position: fixed;
   bottom: 0;
   width: 100%;
   /* position: fixed;
     z-index: 1; */
+}
+
+/* --------------------Auto Slider ------------- */
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: 10px;
+}
+.mySlides img {
+  position: absolute;
+  vertical-align: middle;
+  height: 300px;
+  width: 100%;
 }

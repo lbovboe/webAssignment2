@@ -16,7 +16,29 @@ require "header.php";
         </section>
     </div>
 </main> -->
+<div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="../images/iu5.jpg" />
+        
+      </div>
 
+      <div class="mySlides fade">
+        <img src="../images/iu6.jpg" />
+        
+      </div>
+
+      <div class="mySlides fade">
+        <img src="../images/iu7.jpg" />
+        
+      </div>
+
+      <div class="mySlides fade">
+        <img src="../images/iu8.jpg" />
+        
+      </div>
+
+      
+    </div>
 <?php
 require "footer.php";
 ?>
