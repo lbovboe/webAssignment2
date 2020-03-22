@@ -12,6 +12,7 @@ session_start();
     <link rel="stylesheet" href="signup.css">
     <link rel="stylesheet" href="SearchPage.css">
     <script src="autoslider.js" defer></script>
+    <script src="horizontalslide.js" defer></script>
     <script src="https://kit.fontawesome.com/8d7689987a.js"></script>
 </head>
 
