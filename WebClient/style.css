@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css?family=Anton|Roboto|Trade+Winds&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Monoton&display=swap");
+:root {
+  --primary-color: rgba(47, 180, 180, 0.897);
+  --roboto: "Roboto", sans-serif;
+  --anton: "Anton", sans-serif;
+  --tradeWinds: "Trade Winds", cursive;
+  --monoton: "Monoton", cursive;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 200vh;
+}
+
+.top-nav-bar {
+  background-image: url(../images/headerbg.jpg);
+  background-size: cover;
+  background-color: rgba(0, 255, 242, 0.4);
+  background-blend-mode: multiply;
+  height: 57px;
+  top: 0;
+  position: sticky;
+  box-shadow: 1px 1px 4px 1px blue;
+  z-index: 2;
+}
+.logo {
+  display: inline-block;
+  height: 40px;
+  margin: 5px 10px 0px 25px;
+
+  font-family: var(--monoton);
+  font-size: 2em;
+
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+.searchinput {
+  margin-top: 9px;
+  margin-left: 30px;
+  border: 1px solid orange;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  box-shadow: none;
+  width: 100%;
+}
+
+.searchicon {
+  background: orange;
+  border: 7px solid orange;
+  margin: 8.5px 10px 0 0;
+  width: 2em;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.search-box {
+  display: inline-flex;
+  width: 45%;
+}
+
+.fa-search {
+  color: white;
+}
+
+.login-bar {
+  width: 50%;
+  height: 57px;
+  float: right;
+  display: inline-flex;
+  justify-content: flex-end;
+
+  align-items: center;
+}
+.login-bar input,
+.login-bar button {
+  margin-top: 9px;
+
+  border: 1px solid orange;
+  height: 40px;
+}
+.login-bar button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  width: 4rem;
+}
+.login-bar a {
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+  background: orange;
+  height: 40px;
+  margin-top: 9px;
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.login-bar button:hover,
+.login-bar a:hover {
+  color: green;
+}
+
+@media (max-width: 980px) {
+  .top-nav-bar {
+    height: 118px;
+    border-bottom: 0;
+  }
+  .search-box {
+    width: 100%;
+  }
+  .menu-bar {
+    width: 100%;
+  }
+}
+
+/* footer */
+footer {
+  margin-top: 30px;
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+
+  bottom: 0;
+  width: 100%;
+  /* position: fixed;
+    z-index: 1; */
+}

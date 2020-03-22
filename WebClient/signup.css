@@ -1,0 +1,30 @@
+.wrapper-main {
+  margin-top: 30px;
+  width: 70%;
+  height: 70vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: orange;
+}
+
+.wrapper-main h1 {
+  text-align: center;
+}
+
+.form-signup {
+  display: block;
+  height: 80%;
+
+  margin-top: 2rem;
+}
+
+.form-signup input,
+.form-signup button {
+  height: 40px;
+  background-color: aquamarine;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
