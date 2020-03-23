@@ -267,7 +267,10 @@ body {
 
 /* ---------------Footer ------------ */
 .main-footer {
-  background-color: #56ccf2;
+  background-image: url(../images/headerbg.jpg);
+  background-size: cover;
+  background-color: rgba(0, 255, 242, 0.4);
+  background-blend-mode: multiply;
   color: white;
   padding: 0.25em 0;
   margin-top: 20px;
@@ -276,7 +279,6 @@ body {
 .main-footer-container {
   display: flex;
   align-items: center;
-  
 }
 
 .main-footer-container ul {
@@ -285,7 +287,7 @@ body {
   text-align: end;
   list-style-type: none;
   width: 55%;
-  
+
   flex-shrink: 3;
 }
 
@@ -300,15 +302,14 @@ body {
 }
 .footerNames {
   font-family: var(--tradeWinds);
-  
+
   flex-shrink: 1;
 }
-@media (max-width:440px){
-  .footerNames{
+@media (max-width: 440px) {
+  .footerNames {
     width: 100%;
-    
   }
-  .main-footer-container ul{
+  .main-footer-container ul {
     width: 100%;
   }
 }
