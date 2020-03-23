@@ -58,7 +58,7 @@ require "header.php";
             </div>
             <div class="card-container">
                 <div class="card">
-                    <div class="img">2</div>
+                    <div class="img"><img src="../images/product/1.jpg"></div>
                     <div class="info">
                         <span class="shop-item-price">$12.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
@@ -173,7 +173,7 @@ require "header.php";
                     </div>
                 </div>
             </div>
-            
+
         </div>
     </div>
     <div class="nav">
@@ -190,36 +190,36 @@ require "header.php";
 <!-- Display Session -->
 <h1 class="displaytitle">Display Session</h1>
 <section class="display-container">
-    <div><img src="../images/Product/clothes/adidas1.jpg"></img></div>
-    <div><img src="../images/Product/clothes/adidas.jpg"></div>
-    <div><img src="../images/Product/clothes/adidas2.jpg"></div>
-    <div><img src="../images/Product/clothes/adidas3.jpg"></div>
-    <div><img src="../images/Product/clothes/weiyi2.jpg"></div>
-    <div><img src="../images/Product/clothes/weiyi3.jpg"></div>
-    <div><img src="../images/Product/clothes/weiyi4.jpg"></div>
-    <div><img src="../images/Product/glasses/glasses.jpg"></div>
-    <div><img src="../images/Product/glasses/glasses1.jpg"></div>
-    <div><img src="../images/Product/glasses/glasses2.jpg"></div>
-    <div><img src="../images/Product/glasses/glasses3.jpg"></div>
-    <div><img src="../images/Product/glasses/glasses4.jpg"></div>
-    <div><img src="../images/Product/glasses/glasses5.jpg"></div>
-    <div><img src="../images/Product/perfurm/perfurm.jpg"></div>
-    <div><img src="../images/Product/perfurm/perfurm1.jpg"></div>
-    <div><img src="../images/Product/perfurm/perfurm2.jpg"></div>
-    <div><img src="../images/Product/perfurm/perfurm3.jpg"></div>
-    <div><img src="../images/Product/perfurm/perfurm4.jpg"></div>
-    <div><img src="../images/Product/perfurm/perfurm5.jpg"></div>
-    <div><img src="../images/Product/sports/adidas.jpg"></div>
-    <div><img src="../images/Product/sports/bag.jpg"></div>
-    <div><img src="../images/Product/sports/bag1.jpg"></div>
-    <div><img src="../images/Product/sports/bag2.jpg"></div>
-    <div><img src="../images/Product/sports/nike.jpg"></div>
-    <div><img src="../images/Product/sports/nike1.jpg"></div>
-    <div><img src="../images/Product/suitcase/suitcase.jpg"></div>
-    <div><img src="../images/Product/suitcase/suitcase1.jpg"></div>
-    <div><img src="../images/Product/suitcase/suitcase2.jpg"></div>
-    <div><img src="../images/Product/suitcase/suitcase3.jpg"></div>
-    <div><img src="../images/Product/suitcase/suitcase4.jpg"></div>
+    <div><img src="../images/Product/1.jpg"></img></div>
+    <div><img src="../images/Product/2.jpg"></div>
+    <div><img src="../images/Product/3.jpg"></div>
+    <div><img src="../images/Product/4.jpg"></div>
+    <div><img src="../images/Product/5.jpg"></div>
+    <div><img src="../images/Product/6.jpg"></div>
+    <div><img src="../images/Product/7.jpg"></div>
+    <div><img src="../images/Product/8.jpg"></div>
+    <div><img src="../images/Product/9.jpg"></div>
+    <div><img src="../images/Product/10.jpg"></div>
+    <div><img src="../images/Product/11.jpg"></div>
+    <div><img src="../images/Product/12.jpg"></div>
+    <div><img src="../images/Product/13.jpg"></div>
+    <div><img src="../images/Product/14.jpg"></div>
+    <div><img src="../images/Product/15.jpg"></div>
+    <div><img src="../images/Product/16.jpg"></div>
+    <div><img src="../images/Product/17.jpg"></div>
+    <div><img src="../images/Product/18.jpg"></div>
+    <div><img src="../images/Product/19.jpg"></div>
+    <div><img src="../images/Product/20.jpg"></div>
+    <div><img src="../images/Product/21.jpg"></div>
+    <div><img src="../images/Product/22.jpg"></div>
+    <div><img src="../images/Product/23.jpg"></div>
+    <div><img src="../images/Product/24.jpg"></div>
+    <div><img src="../images/Product/25.jpg"></div>
+    <div><img src="../images/Product/26.jpg"></div>
+    <div><img src="../images/Product/27.jpg"></div>
+    <div><img src="../images/Product/28.jpg"></div>
+    <div><img src="../images/Product/29.jpg"></div>
+    <div><img src="../images/Product/30.jpg"></div>
 
 </section>
 <!-- End of display session -->

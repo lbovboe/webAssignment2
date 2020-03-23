@@ -17,10 +17,12 @@ require "../Server/dbh.php";
         if ($queryResult > 0) {
             while ($row = mysqli_fetch_assoc($result)) {
                 echo "<div class='product-box'>
-                    <h3>PRICE : $" . $row["price"] . "<h3>
-                    <h3>CATEGORY: " . $row["category"] . "<h3>
-                    <h3>QUANTITY: " . $row["quantity"] . "<h3>
-                    <h3>DESCRIPTION: " . $row["content"] . "<h3>
+                    <h3>PRICE : $" . $row["price"] . "</h3>
+                    <h3>CATEGORY: " . $row["category"] . "</h3>
+                    <h3>QUANTITY: " . $row["quantity"] . "</h3>
+                    <h3>DESCRIPTION: " . $row["content"] . "</h3>
+                    <h3> ID : " . $row["id"] . "</h3>
+                    <img src='../images/product/" . $row["id"] . ".jpg' />
                     </div>";
             }
         } else {
