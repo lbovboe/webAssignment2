@@ -231,11 +231,29 @@ body {
 }
 .card .info {
   flex-basis: 40px;
-  background: #333;
+  
   color: #fff;
   flex-grow: 0;
   padding: 10px;
   box-sizing: border-box;
+  background-image: url(../images/headerbg.jpg);
+  background-size: cover;
+  background-color: rgba(0, 255, 242, 0.4);
+  background-blend-mode: multiply;
+  display: flex;
+}
+.shop-item-button{
+  color: white;
+  background-color: rgb(184, 90, 247);
+  border: none;
+  border-radius: .3em;
+  font-weight: bold;
+  cursor: pointer;
+}
+.shop-item-price{
+  flex-grow: 1;
+  
+  font-family: var(--tradeWinds);
 }
 
 /* Display Session */
