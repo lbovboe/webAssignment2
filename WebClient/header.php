@@ -7,10 +7,10 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech@CS</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="signup.css">
-    <link rel="stylesheet" href="SearchPage.css">
+    <title>FASHION@CS</title>
+    <link rel="stylesheet" href="style.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="signup.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="SearchPage.css?v=<?php echo time(); ?>">
     <script src="autoslider.js" defer></script>
     <script src="horizontalslide.js" defer></script>
     <script src="https://kit.fontawesome.com/8d7689987a.js"></script>
