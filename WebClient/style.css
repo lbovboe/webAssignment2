@@ -14,7 +14,6 @@
   box-sizing: border-box;
 }
 body {
-  height: 200vh;
   background-image: url(../images/headerbg.jpg);
   background-size: cover;
   z-index: -2;
@@ -98,10 +97,13 @@ body {
   width: 15em;
 }
 .login-bar button {
-  background-color: #333;
+  background-color:orange;
   color: #fff;
   padding: 10px;
-  width: 4em;
+  width: 5em;
+  border: none;
+  border-radius: 0.3em;
+  font-weight: bold;
   cursor: pointer;
 }
 .login-bar a {
@@ -110,13 +112,16 @@ body {
   margin-top: 9px;
   color: white;
   background: orange;
+  border: none;
+  border-radius: .3em;
+  font-weight: bold;
   height: 40px;
 
   text-align: center;
 }
 .login-bar button:hover,
 .login-bar a:hover {
-  color: green;
+  color: purple;
 }
 
 @media (max-width: 980px) {
@@ -232,7 +237,7 @@ body {
 }
 .card .info {
   flex-basis: 40px;
-  
+
   color: #fff;
   flex-grow: 0;
   padding: 10px;
@@ -243,17 +248,17 @@ body {
   background-blend-mode: multiply;
   display: flex;
 }
-.shop-item-button{
+.shop-item-button {
   color: white;
   background-color: rgb(184, 90, 247);
   border: none;
-  border-radius: .3em;
+  border-radius: 0.3em;
   font-weight: bold;
   cursor: pointer;
 }
-.shop-item-price{
+.shop-item-price {
   flex-grow: 1;
-  
+
   font-family: var(--tradeWinds);
 }
 
@@ -285,7 +290,7 @@ body {
 }
 
 /* ---------------------Titles---------------- */
-.displaytitle{
+.displaytitle {
   font-family: var(--tradeWinds);
   text-align: center;
 }
@@ -299,8 +304,6 @@ body {
   color: white;
   padding: 0.25em 0;
   margin-top: 30px;
-  
-  
 }
 
 .main-footer-container {

@@ -27,7 +27,7 @@ session_start();
 
             <input type="text" class="searchinput" name="searchinput" placeholder="Search...." />
 
-            <button class="searchicon" type="submit" name="submit-search">search</button>
+            <button class="searchicon" type="submit" name="submit-search">Search</button>
 
 
 
@@ -44,7 +44,7 @@ session_start();
                     '<form class="login-form" action="../Server/login.inc.php" method="post">
                    <input type="text" name="mailuid" placeholder="Username/E-mail...">
                    <input type="password" name="pwd" placeholder="password..">
-                   <button type="submit" name="login-submit">login</button>
+                   <button type="submit" name="login-submit">LOGIN</button>
                    <a href="signup.php">SignUp</a>
                </form>';
             }
