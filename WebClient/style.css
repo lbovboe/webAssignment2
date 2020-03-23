@@ -265,6 +265,12 @@ body {
   }
 }
 
+/* ---------------------Titles---------------- */
+.displaytitle{
+  font-family: var(--tradeWinds);
+  text-align: center;
+}
+
 /* ---------------Footer ------------ */
 .main-footer {
   background-image: url(../images/headerbg.jpg);

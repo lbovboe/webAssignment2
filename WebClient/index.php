@@ -42,6 +42,7 @@ require "header.php";
 </div>
 <!-- End of autoslider -->
 
+<h1 class="displaytitle">On Sale</h1>
 <!-- full width horizontal slider -->
 <div class="carousel-container">
     <div class="carousel-inner">
@@ -172,7 +173,7 @@ require "header.php";
 <!-- end of horizontal slider -->
 
 <!-- Display Session -->
-<h2 class="displaytitle">Display Session</h2>
+<h1 class="displaytitle">Display Session</h1>
 <section class="display-container">
     <div><img src="../images/Product/clothes/adidas1.jpg"></img></div>
     <div><img src="../images/Product/clothes/adidas.jpg"></div>
@@ -204,13 +205,7 @@ require "header.php";
     <div><img src="../images/Product/suitcase/suitcase2.jpg"></div>
     <div><img src="../images/Product/suitcase/suitcase3.jpg"></div>
     <div><img src="../images/Product/suitcase/suitcase4.jpg"></div>
-    <div><img src="../images/Product/suitcase/suitcase5.jpg"></div>
-    <div><img src="../images/Product/wash/shampoo.jpg"></div>
-    <div><img src="../images/Product/wash/shampoo1.jpg"></div>
-    <div><img src="../images/Product/wash/showergel.jpg"></div>
-    <div><img src="../images/Product/wash/showergel1.jpg"></div>
-    <div><img src="../images/Product/wash/toothbrush.jpg"></div>
-    <div><img src="../images/Product/wash/toothpaste.jpg"></div>
+
 </section>
 <!-- End of display session -->
 <?php
