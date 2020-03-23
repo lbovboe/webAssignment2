@@ -80,10 +80,16 @@ body {
   width: 50%;
   height: 57px;
   float: right;
-  display: inline-flex;
+  
+}
+.login-form{
+  display: flex;
+  width: 100%;
   justify-content: flex-end;
+  justify-content: space-between;
+  
 
-  align-items: center;
+  
 }
 .login-bar input,
 .login-bar button {
@@ -92,23 +98,26 @@ body {
   border: 1px solid orange;
   height: 40px;
 }
+.login-bar input {
+  width: 15em;
+}
 .login-bar button {
   background-color: #333;
   color: #fff;
   padding: 10px;
-  width: 4rem;
+  width: 4em;
   cursor: pointer;
 }
 .login-bar a {
   text-decoration: none;
   padding: 10px;
+  margin-top: 9px;
   color: white;
   background: orange;
   height: 40px;
-  margin-top: 9px;
+  
   text-align: center;
-  margin-right: 10px;
-  margin-left: 10px;
+  
 }
 .login-bar button:hover,
 .login-bar a:hover {
@@ -123,9 +132,16 @@ body {
   .search-box {
     width: 100%;
   }
-  .menu-bar {
+  .login-bar {
+    width: 100%;
+    text-align: center;
+  }
+  .login-form{
     width: 100%;
   }
+  
+}
+@media (max-width: 518px) {
 }
 
 /* --------------------Auto Slider ------------- */

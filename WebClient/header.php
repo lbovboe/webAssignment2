@@ -41,12 +41,12 @@ session_start();
                 </form>';
             } else {
                 echo
-                    '<form action="../Server/login.inc.php" method="post">
+                    '<form class="login-form" action="../Server/login.inc.php" method="post">
                    <input type="text" name="mailuid" placeholder="Username/E-mail...">
                    <input type="password" name="pwd" placeholder="password..">
                    <button type="submit" name="login-submit">login</button>
-               </form>
-               <a href="signup.php">SignUp</a>';
+                   <a href="signup.php">SignUp</a>
+               </form>';
             }
             ?>
 
