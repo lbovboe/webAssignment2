@@ -36,7 +36,7 @@ session_start();
             <?php
             if (isset($_SESSION['idnum'])) {
                 echo
-                    '<form action="../Server/logout.inc.php" method="post">
+                    '<form class="logout-form" action="../Server/logout.inc.php" method="post">
                     <button type="submit" name="logout-submit">LogOut</button>
                 </form>';
             } else {
