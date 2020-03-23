@@ -2,8 +2,8 @@
     <div class="main-footer-container">
         <p class="footerNames">Copyright &copy; <script>
                 document.write(new Date().getFullYear());
-            </script>, TECH@CS</p>
-        
+            </script>, FASHION@CS</p>
+
         <ul class="footer-nav">
             <li>
                 <a href="https://www.youtube.com" target="_blank">

@@ -22,7 +22,7 @@ session_start();
         <form class="search-box" action="search.php" method="post">
 
             <span>
-                <a class="logo" href="index.php">TECH@CS</a>
+                <a class="logo" href="index.php">FASHION@CS</a>
             </span>
 
             <input type="text" class="searchinput" name="searchinput" placeholder="Search...." />

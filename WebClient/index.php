@@ -19,22 +19,22 @@ require "header.php";
 <!-- Autoslider -->
 <div class="slideshow-container">
     <div class="mySlides fade">
-        <img src="../images/iu5.jpg" />
+        <img src="../images/fashion1.jpg" />
 
     </div>
 
     <div class="mySlides fade">
-        <img src="../images/iu6.jpg" />
+        <img src="../images/fashion3.jpg" />
 
     </div>
 
     <div class="mySlides fade">
-        <img src="../images/iu7.jpg" />
+        <img src="../images/fashion4.jpg" />
 
     </div>
 
     <div class="mySlides fade">
-        <img src="../images/iu8.jpg" />
+        <img src="../images/fashion2.jpg" />
 
     </div>
 
