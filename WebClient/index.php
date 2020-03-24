@@ -64,7 +64,7 @@ require "header.php";
                         <img src="../images/product/3.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$22.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ require "header.php";
                         <img src="../images/product/5.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$40.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -86,7 +86,7 @@ require "header.php";
                         <img src="../images/product/7.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$32.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -97,7 +97,7 @@ require "header.php";
                         <img src="../images/product/9.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$112.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -108,7 +108,7 @@ require "header.php";
                         <img src="../images/product/11.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$102.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -119,7 +119,7 @@ require "header.php";
                         <img src="../images/product/13.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$123.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -130,7 +130,7 @@ require "header.php";
                         <img src="../images/product/15.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$112.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -141,7 +141,7 @@ require "header.php";
                         <img src="../images/product/17.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$50.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -152,7 +152,7 @@ require "header.php";
                         <img src="../images/product/19.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$122.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -163,7 +163,7 @@ require "header.php";
                         <img src="../images/product/21.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$102.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -174,7 +174,7 @@ require "header.php";
                         <img src="../images/product/23.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$22.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -185,7 +185,7 @@ require "header.php";
                         <img src="../images/product/25.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$9.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
@@ -196,7 +196,7 @@ require "header.php";
                         <img src="../images/product/27.jpg">
                     </div>
                     <div class="info">
-                        <span class="shop-item-price">$12.99</span>
+                        <span class="shop-item-price">$15.99</span>
                         <button class="shop-item-button" type="button">ADD TO CART</button>
                     </div>
                 </div>
