@@ -26,7 +26,7 @@ require "header.php";
                 }
             }
             ?>
-            <form class="form-signup" action="../Server/signup.inc.php" method="post">
+            <form class="form-signup" action="../server/signup.inc.php" method="post">
                 <input type="text" name="uid" placeholder="Username">
                 <input type="text" name="email" placeholder="Email">
                 <input type="password" name="pwd" placeholder="password">

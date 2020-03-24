@@ -1,6 +1,6 @@
 <?php
 include "header.php";
-require "../Server/dbh.php";
+require "../server/dbh.php";
 ?>
 
 

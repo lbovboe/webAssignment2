@@ -218,37 +218,37 @@ require "header.php";
 <!-- Display Session -->
 <h1 class="displaytitle">Display Session</h1>
 <section class="display-container">
-    <div><img src="../images/Product/1.jpg"></img></div>
-    <div><img src="../images/Product/2.jpg"></div>
-    <div><img src="../images/Product/3.jpg"></div>
-    <div><img src="../images/Product/4.jpg"></div>
-    <div><img src="../images/Product/5.jpg"></div>
-    <div><img src="../images/Product/6.jpg"></div>
-    <div><img src="../images/Product/7.jpg"></div>
-    <div><img src="../images/Product/8.jpg"></div>
-    <div><img src="../images/Product/9.jpg"></div>
-    <div><img src="../images/Product/10.jpg"></div>
-    <div><img src="../images/Product/11.jpg"></div>
-    <div><img src="../images/Product/12.jpg"></div>
-    <div><img src="../images/Product/13.jpg"></div>
-    <div><img src="../images/Product/14.jpg"></div>
-    <div><img src="../images/Product/15.jpg"></div>
-    <div><img src="../images/Product/16.jpg"></div>
-    <div><img src="../images/Product/17.jpg"></div>
-    <div><img src="../images/Product/18.jpg"></div>
-    <div><img src="../images/Product/19.jpg"></div>
-    <div><img src="../images/Product/20.jpg"></div>
-    <div><img src="../images/Product/21.jpg"></div>
-    <div><img src="../images/Product/22.jpg"></div>
-    <div><img src="../images/Product/23.jpg"></div>
-    <div><img src="../images/Product/24.jpg"></div>
-    <div><img src="../images/Product/25.jpg"></div>
-    <div><img src="../images/Product/26.jpg"></div>
-    <div><img src="../images/Product/27.jpg"></div>
-    <div><img src="../images/Product/28.jpg"></div>
-    <div><img src="../images/Product/29.jpg"></div>
-    <div><img src="../images/Product/30.jpg"></div>
+    <div><img src="../images/product/1.jpg"></img></div>
 
+    <div><img src="../images/product/2.jpg"></div>
+    <div><img src="../images/product/3.jpg"></div>
+    <div><img src="../images/product/4.jpg"></div>
+    <div><img src="../images/product/5.jpg"></div>
+    <div><img src="../images/product/6.jpg"></div>
+    <div><img src="../images/product/7.jpg"></div>
+    <div><img src="../images/product/8.jpg"></div>
+    <div><img src="../images/product/9.jpg"></div>
+    <div><img src="../images/product/10.jpg"></div>
+    <div><img src="../images/product/11.jpg"></div>
+    <div><img src="../images/product/12.jpg"></div>
+    <div><img src="../images/product/13.jpg"></div>
+    <div><img src="../images/product/14.jpg"></div>
+    <div><img src="../images/product/15.jpg"></div>
+    <div><img src="../images/product/16.jpg"></div>
+    <div><img src="../images/product/17.jpg"></div>
+    <div><img src="../images/product/18.jpg"></div>
+    <div><img src="../images/product/19.jpg"></div>
+    <div><img src="../images/product/20.jpg"></div>
+    <div><img src="../images/product/21.jpg"></div>
+    <div><img src="../images/product/22.jpg"></div>
+    <div><img src="../images/product/23.jpg"></div>
+    <div><img src="../images/product/24.jpg"></div>
+    <div><img src="../images/product/25.jpg"></div>
+    <div><img src="../images/product/26.jpg"></div>
+    <div><img src="../images/product/27.jpg"></div>
+    <div><img src="../images/product/28.jpg"></div>
+    <div><img src="../images/product/29.jpg"></div>
+    <div><img src="../images/product/30.jpg"></div>
 </section>
 <!-- End of display session -->
 <?php

@@ -3,5 +3,5 @@
 session_start();
 session_unset();
 session_destroy();
-header("Location: ../WebClient/index.php");
+header("Location: ../webclient/index.php");
 ?>

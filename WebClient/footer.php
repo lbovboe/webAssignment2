@@ -7,17 +7,17 @@
         <ul class="footer-nav">
             <li>
                 <a href="https://www.youtube.com" target="_blank">
-                    <img src="../Images/YouTube Logo.png">
+                    <img src="../images/Youtube Logo.png">
                 </a>
             </li>
             <li>
                 <a href="https://www.spotify.com" target="_blank">
-                    <img src="../Images/Spotify Logo.png">
+                    <img src="../images/Spotify Logo.png">
                 </a>
             </li>
             <li>
                 <a href="https://www.facebook.com" target="_blank">
-                    <img src="../Images/Facebook Logo.png">
+                    <img src="../images/Facebook Logo.png">
                 </a>
             </li>
         </ul>

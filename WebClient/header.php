@@ -36,12 +36,12 @@ session_start();
             <?php
             if (isset($_SESSION['idnum'])) {
                 echo
-                    '<form class="logout-form" action="../Server/logout.inc.php" method="post">
+                    '<form class="logout-form" action="../server/logout.inc.php" method="post">
                     <button type="submit" name="logout-submit">LogOut</button>
                 </form>';
             } else {
                 echo
-                    '<form class="login-form" action="../Server/login.inc.php" method="post">
+                    '<form class="login-form" action="../server/login.inc.php" method="post">
                    <input type="text" name="mailuid" placeholder="Username/E-mail...">
                    <input type="password" name="pwd" placeholder="password..">
                    <button type="submit" name="login-submit">LOGIN</button>
