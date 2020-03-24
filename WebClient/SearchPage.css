@@ -1,6 +1,4 @@
-
-
-.searchtitle{
+.searchtitle {
   text-align: center;
   color: red;
   margin-bottom: 20px;
@@ -18,11 +16,11 @@
   grid-template-columns: repeat(2, 40%);
   grid-gap: 20px;
   grid-auto-rows: 300px;
-  
+
   padding-bottom: 30px;
   width: 100%;
   justify-content: center;
- align-content: center;
+  align-content: center;
 }
 .product-info {
   border: 1px solid green;
@@ -37,4 +35,10 @@
   left: 0;
   height: 100%;
   width: 100%;
+}
+
+@media (max-width: 600px) {
+  .product-box {
+    grid-template-columns: repeat(1, 95%);
+  }
 }
