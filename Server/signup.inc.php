@@ -22,7 +22,7 @@ if (isset($_POST["signup-submit"])) {
         header("Location: ../webclient/signup.php?error=passwordcheck&uid=" . $username . "&mail=" . $email);
         exit();
     } else {
-        $sql = "SELECT userName FROM users WHERE userName =? ";
+        $sql = "SELECT userName FROM users WHERE username =? ";
         $stmt = mysqli_stmt_init($conn);
         if (!mysqli_stmt_prepare($stmt, $sql)) {
             header("Location: ../webclient/signup.php?error=sqlerror");
@@ -37,7 +37,7 @@ if (isset($_POST["signup-submit"])) {
                 header("Location: ../webclient/signup.php?error=usertaken&mail=" . $email);
                 exit();
             } else {
-                $sql = "INSERT INTO users (userName,emailusers,userpwd) VALUES(?,?,?);";
+                $sql = "INSERT INTO users (username,emailusers,userpwd) VALUES(?,?,?);";
                 $stmt = mysqli_stmt_init($conn);
                 if (!mysqli_stmt_prepare($stmt, $sql)) {
                     header("Location: ../webclient/signup.php?error=sqlerror");
